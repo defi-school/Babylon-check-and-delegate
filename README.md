@@ -1,4 +1,8 @@
-Related to : https://babylonchain.io/ Bitcoin Staking Protocol
+![defi-school io_](https://github.com/defi-school/Babylon-check-and-delegate/assets/10072713/0c0cbf91-20fa-46c8-860e-956b86738318)
+
+> [!NOTE]
+>Script related to : https://babylonchain.io/ Bitcoin Staking Protocol <br>
+>Defi-school is not affiliated with or connected to babylonchain.io.
 
 Script to check your balance and send it to a delegation node if it's greater than an amount of your choice
 
