@@ -40,3 +40,4 @@ chmod +x check_deleg.sh
 ```bash
 ./check_deleg.sh 
 ```
+![2024-01-10 17_59_21-MobaXterm](https://github.com/defi-school/Babylon-check-and-delegate/assets/10072713/b1a66c8f-922a-4363-aa26-928d4280b0c6)
