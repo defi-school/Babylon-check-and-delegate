@@ -4,6 +4,12 @@ Script to check your balance and send it to a delegation node if it's greater th
 
 Download the script to the same server where "babylond" and the wallet are registered.
 
+Clone project :
+```bash
+git clone https://github.com/defi-school/Babylon-check-and-delegate.git
+cd /Babylon-check-and-delegate.git
+```
+
 Edit the beginning of the script:
 
 ```bash
